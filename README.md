@@ -1,3 +1,9 @@
+## This package is deprecated
+
+`eslint-plugin-kiwicom-incubator` is no longer maintained, use [eslint-plugin-adeira](https://www.npmjs.com/package/eslint-plugin-adeira) instead
+
+---
+
 Rules used at Kiwi.com in the Incubator tribe. You most probably do not need to use this package directly - use [@kiwicom/eslint-config](https://www.npmjs.com/package/@kiwicom/eslint-config) instead. This package exists basically only to workaround some Eslint limitations.
 
 # Installation
